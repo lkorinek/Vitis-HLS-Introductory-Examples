@@ -1,3 +1,18 @@
 proj/
 .crashReporter/
 *log
+
+.github
+.vscode
+
+# Vitis HLS build artifacts
+component*/
+work/
+w/
+*.prj/
+*.log
+*.jou
+.Xil/
+vivado*
+vitis_hls.app
+
